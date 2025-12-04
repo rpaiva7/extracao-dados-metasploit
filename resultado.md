@@ -1,7 +1,5 @@
 ## Extração de dados com Metasploit
 
-O objetivo é encontrar o arquivo chamado flag que criei dentro da pasta de documentos dentro de um usuário. É uma simulação básica de um CTF (Capture The Flag).
-
 ### 1º - Relembrando os comandos da configuração inicial para rodar o metasploit e o meterpreter, nesta sequência:
 
 1 - sudo su (entrar no root do terminal do Kali)
